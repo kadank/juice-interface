@@ -37,6 +37,8 @@ export default function ProjectHeader({
       >
         <div
           style={{
+            border-radius:10px;
+            background-color:rgb(255, 179, 44);
             marginRight: '1.25rem',
             marginBottom: '1.25rem',
             height: '100%',
